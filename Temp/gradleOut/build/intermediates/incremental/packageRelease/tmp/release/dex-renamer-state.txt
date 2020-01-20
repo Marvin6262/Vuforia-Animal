@@ -1,0 +1,4 @@
+#Mon Jan 20 14:07:36 ICT 2020
+base.0=E\:\\AR\\Augmented Animal\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
